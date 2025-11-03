@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Robocorp/certificationI/."
+    ],
+    "python.terminal.activateEnvironment": false
+}
